@@ -34,7 +34,8 @@ Build & Run on an emulator or physical device
 
 📸 Screenshots
 
-<img width="167" height="347" alt="image" src="https://github.com/user-attachments/assets/53dc162b-f6ae-468c-879b-49d76f1a7454" />
+<img width="720" height="1460" alt="image" src="https://github.com/user-attachments/assets/7a095ff2-c8c5-4933-8696-0b9fc12fcdb9" />
+
 
 <img width="720" height="1402" alt="image" src="https://github.com/user-attachments/assets/50820ff9-fbe0-4443-9999-5266ba4bb5c8" />
 

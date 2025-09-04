@@ -1,30 +1,43 @@
-UI Controls (Android)
+📱 UI Controls (Android)
 
-This project demonstrates the use of basic Android UI controls such as TextView, Button, and live Date/Time display. The app features a simple interface that shows the current date with a continuously updating clock and a button to navigate to another screen.
+A simple Android application demonstrating the use of basic UI controls with a modern and minimal design.
+The app shows the current date and a real-time updating clock, along with a navigation button to move between screens.
 
-Features
+✨ Features
 
-Displays current date and running time
+📅 Live Date display
 
-Clean and minimal user interface
+⏰ Running Time (auto-updates every second)
 
-Button to navigate to another activity
+🎛️ Clean and simple UI controls (TextView & Button)
 
-Tech Stack
+🔄 Button navigation to another activity
 
-Java – Application logic
+🛠️ Tech Stack
 
-XML – UI design
+Java → App logic
 
-Android Studio – Development environment
+XML → UI design
 
-Getting Started
+Android Studio → Development IDE
 
-Clone the repository:
+🚀 Getting Started
+
+Clone the repository
 
 git clone https://github.com/YourUsername/UIControls2.git
 
 
-Open the project in Android Studio
+Open in Android Studio
 
-Build and run the app on an emulator or physical device
+Build & Run on an emulator or physical device
+
+📸 Screenshots
+
+<img width="167" height="347" alt="image" src="https://github.com/user-attachments/assets/53dc162b-f6ae-468c-879b-49d76f1a7454" />
+
+<img width="720" height="1402" alt="image" src="https://github.com/user-attachments/assets/50820ff9-fbe0-4443-9999-5266ba4bb5c8" />
+
+<img width="720" height="1419" alt="image" src="https://github.com/user-attachments/assets/a3392323-cfbb-42b6-bb4a-c820764d9a19" />
+
+
